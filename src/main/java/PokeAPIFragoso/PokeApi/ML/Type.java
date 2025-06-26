@@ -1,6 +1,4 @@
-
 package PokeAPIFragoso.PokeApi.ML;
-
 
 public class Type {
     private String name; 

@@ -26,6 +26,15 @@ public class Pokemon {
         this.id = id;
     }
 
+    public List<Types> getTypes() {
+        return types;
+    }
+
+    public void setTypes(List<Types> types) {
+        this.types = types;
+    }
+
+    
     
     
     
